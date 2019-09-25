@@ -49,7 +49,7 @@ function moveStep(){
 
 function checkWin(){
      if(guessed == 8){
-        alert("Поздравляю, ты прошел игру за "+step+" шагов. Возьми пирожок и 10$ с полки");
+        alert("Поздравляю, ты прошел игру за "+step+" шагов.");
     }
 };
 
